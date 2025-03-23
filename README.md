@@ -1,5 +1,4 @@
-# Forecast-and-predictions
-# Customer Retention Analysis for Model Fitness
+# Predictive Analytics & Clustering for Customer Retention
 
 # Context
 Model Fitness, a subscription-based gym chain, is facing high customer churn, a common challenge in the fitness industry. Understanding why customers cancel their memberships is crucial for improving retention strategies and sustaining business growth. This project aims to analyze user behavior, identify key churn predictors, and develop data-driven recommendations to enhance customer engagement and loyalty.  
