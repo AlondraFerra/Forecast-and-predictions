@@ -26,7 +26,7 @@ The analysis identified **five distinct customer clusters**, each with different
 
 # Conclusions & Recommendations
 To reduce churn and improve retention, the following strategies are suggested:  
-✅ **Encourage Long-Term Memberships:** Offer discounts and exclusive perks for 6-12 month contracts to increase commitment.  
-✅ **Promote Social & Group Activities:** Leverage referral programs and group classes to enhance user engagement.  
-✅ **Incentivize Regular Attendance:** Implement rewards for consistent gym visits to maintain user motivation.  
-✅ **Personalized Outreach for At-Risk Users:** Target low-engagement users with special offers, reminders, and personalized experiences to prevent cancellations.  
+- **Encourage Long-Term Memberships:** Offer discounts and exclusive perks for 6-12 month contracts to increase commitment.  
+- **Promote Social & Group Activities:** Leverage referral programs and group classes to enhance user engagement.  
+- **Incentivize Regular Attendance:** Implement rewards for consistent gym visits to maintain user motivation.  
+- **Personalized Outreach for At-Risk Users:** Target low-engagement users with special offers, reminders, and personalized experiences to prevent cancellations.  
